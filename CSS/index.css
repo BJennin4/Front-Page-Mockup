@@ -1,0 +1,52 @@
+header {
+  background-color: lavender;
+  border-bottom: 1px solid black;
+}
+#headerBottom {
+  background-color: rgba(255, 255, 255, 0.8);
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+}
+.stick {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+body {
+  margin: 0;
+}
+
+.container {
+  margin: 0 auto;
+}
+
+.stick + .container {
+  padding-top: 4em;
+}
+
+#siteBanner {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  width: 100%;
+  height: 40%;
+}
+
+#siteLogo {
+  height: 5vh;
+}
+
+.leftSide {
+  padding-left: 5vw;
+}
+.rightSide {
+  position: fixed;
+  right: 5vw;
+}
+
+.bannerIcon {
+  height: 3vh;
+}
+
+#signInSignUp {
+  line-height: 20px;
+}
