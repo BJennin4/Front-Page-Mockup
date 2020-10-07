@@ -1,6 +1,7 @@
 /* Header Styling */
 header {
   background-color: rgba(240, 240, 250);
+  z-index: 1;
 }
 
 .leftSide {
