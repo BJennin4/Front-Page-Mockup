@@ -263,47 +263,42 @@ footer {
 }
 
 #facebook {
-  background: url("file:///C:/Users/Brandon.Jennings/Documents/Boutsy%20Testing%20Grounds/Updated%20Front%20End/images/logos/fb.png")
-    no-repeat;
+  background: url("../../Updated%20Front%20End/images/logos/fb.png") no-repeat;
   display: inline-block;
 }
 #facebook:hover {
-  background: url("file:///C:/Users/Brandon.Jennings/Documents/Boutsy%20Testing%20Grounds/Updated%20Front%20End/images/logos/fb-hover.png")
+  background: url("../../Updated%20Front%20End/images/logos/fb-hover.png")
     no-repeat;
 }
 #instagram {
-  background: url("file:///C:/Users/Brandon.Jennings/Documents/Boutsy%20Testing%20Grounds/Updated%20Front%20End/images/logos/ig.png")
-    no-repeat;
+  background: url("../../Updated%20Front%20End/images/logos/ig.png") no-repeat;
   display: inline-block;
 }
 #instagram:hover {
-  background: url("file:///C:/Users/Brandon.Jennings/Documents/Boutsy%20Testing%20Grounds/Updated%20Front%20End/images/logos/ig-hover.png")
+  background: url("../../Updated%20Front%20End/images/logos/ig-hover.png")
     no-repeat;
 }
 #youtube {
-  background: url("file:///C:/Users/Brandon.Jennings/Documents/Boutsy%20Testing%20Grounds/Updated%20Front%20End/images/logos/yt.png")
-    no-repeat;
+  background: url("../../Updated%20Front%20End/images/logos/yt.png") no-repeat;
   display: inline-block;
 }
 #youtube:hover {
-  background: url("file:///C:/Users/Brandon.Jennings/Documents/Boutsy%20Testing%20Grounds/Updated%20Front%20End/images/logos/yt-hover.png")
+  background: url("../../Updated%20Front%20End/images/logos/yt-hover.png")
     no-repeat;
 }
 #blogLogo {
-  background: url("file:///C:/Users/Brandon.Jennings/Documents/Boutsy%20Testing%20Grounds/Updated%20Front%20End/images/logos/main.png")
-    no-repeat;
+  background: url("../../Updated%20Front%20End/images/logos/main.png") no-repeat;
   display: inline-block;
 }
 #blogLogo:hover {
-  background: url("file:///C:/Users/Brandon.Jennings/Documents/Boutsy%20Testing%20Grounds/Updated%20Front%20End/images/logos/main-hover.png")
+  background: url("../../Updated%20Front%20End/images/logos/main-hover.png")
     no-repeat;
 }
 #wiki {
-  background: url("file:///C:/Users/Brandon.Jennings/Documents/Boutsy%20Testing%20Grounds/Updated%20Front%20End/images/logos/wiki.png")
-    no-repeat;
+  background: url("../../Updated%20Front%20End/images/logos/wiki.png") no-repeat;
   display: inline-block;
 }
 #wiki:hover {
-  background: url("file:///C:/Users/Brandon.Jennings/Documents/Boutsy%20Testing%20Grounds/Updated%20Front%20End/images/logos/wiki-hover.png")
+  background: url("../../Updated%20Front%20End/images/logos/wiki-hover.png")
     no-repeat;
 }
